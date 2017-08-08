@@ -25,9 +25,9 @@ My personal solution of PAT Advanced Level.
 | 1019 | Y |  水题，进制转换，注意进制可能很大  |
 | 1020 | Y |  二叉树基本操作，由中序和后序序列得出树，然后层序遍历  |
 | 1021 | Y |  Deepest Root  |
-| 1022 | N |  NULL  |
-| 1023 | N |  NULL  |
-| 1024 | N |  NULL  |
+| 1022 | Y |  哈希，STL map, set的使用  |
+| 1023 | Y |  水题，用字符，不要用int  |
+| 1024 | Y |  水题，用字符，不要用int，注意有可能输入直接就是回文数，不用再计算，直接输出  |
 | 1025 | N |  NULL  |
 | 1026 | N |  NULL  |
 | 1027 | N |  NULL  |
