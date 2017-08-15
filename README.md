@@ -40,11 +40,11 @@ My personal solution of PAT Advanced Level.
 | 1034 | Y |  简单并查集  |
 | 1035 | Y |  水题  |
 | 1036 | Y |  水题，排序  |
-| 1037 | N |  NULL  |
-| 1038 | N |  NULL  |
-| 1039 | N |  NULL  |
-| 1040 | N |  NULL  |
-| 1041 | N |  NULL  |
+| 1037 | Y |  水题，排序  |
+| 1038 | Y |  字典序排序  |
+| 1039 | Y |  水题，注意最后一组的大数据，最好把名字hash成int  |
+| 1040 | Y |  最长回文子串  |
+| 1041 | Y |  水题  |
 | 1042 | N |  NULL  |
 | 1043 | N |  NULL  |
 | 1044 | N |  NULL  |
