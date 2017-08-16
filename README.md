@@ -45,10 +45,10 @@ My personal solution of PAT Advanced Level.
 | 1039 | Y |  水题，注意最后一组的大数据，最好把名字hash成int  |
 | 1040 | Y |  最长回文子串  |
 | 1041 | Y |  水题  |
-| 1042 | N |  NULL  |
-| 1043 | N |  NULL  |
-| 1044 | N |  NULL  |
-| 1045 | N |  NULL  |
+| 1042 | Y |  水题  |
+| 1043 | Y |  BST  |
+| 1044 | Y |  水题，找出连续子序列的和与需要支付的金额的最小差额的子序列集合  |
+| 1045 | N |  LCS变种  |
 | 1046 | N |  NULL  |
 | 1047 | N |  NULL  |
 | 1048 | N |  NULL  |
