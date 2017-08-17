@@ -48,8 +48,8 @@ My personal solution of PAT Advanced Level.
 | 1042 | Y |  水题  |
 | 1043 | Y |  BST  |
 | 1044 | Y |  水题，找出连续子序列的和与需要支付的金额的最小差额的子序列集合  |
-| 1045 | N |  LCS变种  |
-| 1046 | N |  NULL  |
+| 1045 | Y |  LCS变种，超纲？ |
+| 1046 | Y |  水题，最后一组是大数据，提示：假设a < b，dis(a, b) = dis(0, b) - dis(0, a); dis(a, b) = min(dis(a, b), total - dis(a, b));  |
 | 1047 | N |  NULL  |
 | 1048 | N |  NULL  |
 | 1049 | N |  NULL  |
