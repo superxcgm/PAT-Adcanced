@@ -50,10 +50,10 @@ My personal solution of PAT Advanced Level.
 | 1044 | Y |  水题，找出连续子序列的和与需要支付的金额的最小差额的子序列集合  |
 | 1045 | Y |  LCS变种，超纲？ |
 | 1046 | Y |  水题，最后一组是大数据，提示：假设a < b，dis(a, b) = dis(0, b) - dis(0, a); dis(a, b) = min(dis(a, b), total - dis(a, b));  |
-| 1047 | N |  NULL  |
-| 1048 | N |  NULL  |
-| 1049 | N |  NULL  |
-| 1050 | N |  NULL  |
+| 1047 | Y |  和1039差不多  |
+| 1048 | Y |  二分  |
+| 1049 | Y |  数字规律  |
+| 1050 | Y |  水题，注意对S2的优化，虽然S2可能有10^4个字符，但因为字符都是可见的ascii字符，也就是最多不超过256种情况  |
 | 1051 | N |  NULL  |
 | 1052 | N |  NULL  |
 | 1053 | N |  NULL  |
