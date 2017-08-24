@@ -60,10 +60,10 @@ My personal solution of PAT Advanced Level.
 | 1054 | Y |  水题，找出支配色（出现次数超过nrow*ncol的一半）  |
 | 1055 | Y |  排序，没坑，注意时间  |
 | 1056 | Y |  简单模拟，题意有坑  |
-| 1057 | N |  NULL  |
-| 1058 | N |  NULL  |
-| 1059 | N |  NULL  |
-| 1060 | N |  NULL  |
+| 1057 | Y |  注意时间，分左右两个multiset，左set的成员数应该等于右边或比右边的个数多一，这样左边的最后一个元素就是PeekMedian  |
+| 1058 | Y |  A+B水题  |
+| 1059 | Y |  题目有误，输入N就是一个int，不是long，而且这题数据很弱，直接暴力过，不用素数打表  |
+| 1060 | Y |  有坑，注意`standard form "0.d1...dN*10^k" (d1>0 unless the number is 0);`不足n位的要补足，还有就是d1  |
 | 1061 | N |  NULL  |
 | 1062 | N |  NULL  |
 | 1063 | N |  NULL  |
